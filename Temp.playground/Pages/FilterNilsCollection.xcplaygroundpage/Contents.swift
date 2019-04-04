@@ -1,7 +1,7 @@
 import Foundation
 
-// TODO: Write global function that takes Collection<T?> as a parameter and returns Collection<T>, with nils filtered.
-//func filterNils(collection: Collection<T?>) -> Collection<T> {
+// TODO: Write global function that takes Collection<T?> as a parameter and returns Array<T>, with nils filtered.
+//func filterNils(collection: Collection<T?>) -> Array<T> {
 //    return ???
 //}
 
